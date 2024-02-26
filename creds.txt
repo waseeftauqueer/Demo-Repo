@@ -1,2 +1,0 @@
-username = dfadf
-password = dasfasf
